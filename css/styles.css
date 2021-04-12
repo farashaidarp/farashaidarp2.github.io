@@ -1,0 +1,76 @@
+* {
+    font-family: 'Segoe UI',
+    Tahoma,
+    Geneva,
+    Verdana,
+    sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+        background-color:burlywood ;
+}
+h1{
+    color: azure;
+      margin-top: 0;
+      margin-left: 15px;
+      margin-bottom: 0;
+      font-size: 30px;
+}
+
+p{
+    color: white;
+}
+h3{
+    color: white;
+
+}
+
+.judul p{
+    color: black;
+}
+
+#header-nav {
+     background-color: rgba(34, 49, 52, 0.9);
+    border: solid black 1px;
+}
+
+.navbar-brand {       
+    padding-left: 0;  
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+  }
+
+
+.text-center {
+    font-size: 38px;
+    font-weight: bold;
+    position: relative;
+    margin-top: 55px;
+}
+
+#isi {       
+    margin: 10px;
+  background-color: rgba(34, 49, 52, 0.9);  
+    position: relative;
+}
+
+
+
+#nav-list {
+    margin-top: 10px;
+}
+
+#nav-list a {
+    text-align: center;
+    color: black;
+    font-weight: 100;
+    background-color: #AAA5A5;
+}
+
+#nav-list a:hover {
+    background-color: #d4d461;   
+}
+
